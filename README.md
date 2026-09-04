@@ -476,6 +476,9 @@ git checkout -b temp        # 여기서 한 작업을 살리려면 브랜치를 
 - [Git 공식 문서](https://git-scm.com/docs)
 - [GitHub CLI](https://cli.github.com/manual/)
 09:21 여러분의 FORK 후 새로 데이터가 업데이트 되었습니다.
+09:37 김동하의 0904_dongha branch에서 업데이트 된 시간
+
+10:15 김동하의 0904_dongha branch에서 업데이트 된 시간
 
 09:36 노서현의 0904_seohyun branch에서 작업한 내용입니다.
 09:35 김예지의 0904_lecture branch에서 작업한 내용입니다.
